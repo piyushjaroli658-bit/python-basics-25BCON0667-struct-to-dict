@@ -9,7 +9,7 @@ The struct-to-dict.py script:
 
 Defines a Python dictionary named student containing key-value pairs for a student's information (name, roll, and marks).
 
-Accesses the values in the dictionary using their respective keys.
+Accesses the values in the dictionary using their respective keys .
 
 Uses an f-string to print the student's name, roll number, and marks to the console.
 
